@@ -42,6 +42,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Benchling](https://benchling.com/careers) | San Francisco, CA |
 | [Bending Spoons](http://bendingspoons.com/careers.html) | Milan, Italy; Remote |
 | [Betterment](https://www.betterment.com/careers/) | New York, NY |
+| [Bill.com](https://www.bill.com/about-us/careers/jobs/) | Palo Alto, CA |
 | [Bitly](https://bitly.com/pages/careers) | Denver, CO; San Francisco, CA; New York, NY  |
 | [Bitnami](https://bitnami.com/careers) | San Francisco, CA  |
 | [BitTorrent](http://www.bittorrent.com/company/about/jobs) | San Francisco, CA  |
@@ -99,6 +100,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [DJI](http://we.dji.com/career.html) | Palo Alto, CA |
 | [Docker](https://www.docker.com/careers) | San Francisco, CA |
 | [DocuSign](https://www.docusign.com/company/careers) | San Francisco, CA; Seattle, WA |
+| [DollarShaveClub](https://www.dollarshaveclub.com/join-the-team) | Los Angeles, CA |
 | [DoorDash](https://www.doordash.com/jobs/) | San Francisco, CA |
 | [Dot & Bo](https://www.dotandbo.com/careers) | San Francisco, CA |
 | [DraftKings](http://careers.draftkings.com/) | Boston, MA; New York, NY |
@@ -199,7 +201,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Matterport](http://matterport.com/positions/) | Mountain View, CA |
 | [MaxCDN](https://www.maxcdn.com/careers/) | Los Angeles, CA |
 | [Medallia](http://www.medallia.com/open-positions/) | Buenos Aires, Argentina; Palo Alto, CA |
-| [Medium](https://medium.com/@Medium/jobs-page-b157594e8fce) | San Francisco, CA |
+| [Medium](https://jobs.medium.com/) | San Francisco, CA |
 | [Meetup](http://www.meetup.com/jobs/) | New York, NY |
 | [Meteor](https://www.meteor.com/careers) | San Francisco, CA |
 | [Metromile](https://boards.greenhouse.io/metromile#.Vo7qppMrIo8) | Boston, MA; San Francisco, CA |
@@ -240,7 +242,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Pivotal](http://pivotal.io/careers) | Atlanta, GA; Los Angeles, CA; New York, NY; San Francisco, CA |
 | [PlushCare](https://www.plushcare.com/careers/) | San Francisco, CA |
 | [Postmates](https://postmates.com/jobs) | San Francisco, CA |
-| [Prezi](http://prezi.com/jobs/) |  |
+| [Prezi](http://prezi.com/jobs/) | Budapest, Hungary; San Francisco, CA  |
 | [Priceline](http://careers.priceline.com/) | Norwalk, CT |
 | [Prism](https://prism.com/careers/) | San Francisco, CA |
 | [Pristine](https://jobs.lever.co/pristine/) | Austin, TX |
